@@ -4,30 +4,42 @@
   <img src="https://komarev.com/ghpvc/?username=RoPP17&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Visitas al Perfil" />
   <img src="https://img.shields.io/badge/Estudiante%20de-Ingenier%C3%ADa%20Mec%C3%A1nica-0052cc?style=flat&logo=target" />
   <img src="https://img.shields.io/badge/Universidad-Universidad%20T%C3%A9cnica%20de%20Ambato%20(UTA)-red?style=flat" />
+  <img src="https://img.shields.io/badge/Enfoque-F%C3%ADsica%20Computacional%20%7C%20CAE%20%7C%20Software-2ea44f?style=flat" />
 </p>
 
-Estudiante de **Ingeniería Mecánica** en la **Universidad Técnica de Ambato (Ecuador)** enfocado en la convergencia entre **mecánica analítica, física computacional, simulación numérica (CAE/CFD) y desarrollo de software moderno**.
+Estudiante de **Ingeniería Mecánica** en la **Universidad Técnica de Ambato (Ecuador)**. Mi perfil se sitúa en la intersección entre la **física clásica/dinámica, el diseño mecánico y el desarrollo de software científico**. 
 
-Me apasiona convertir modelos matemáticos y leyes físicas abstractas en **herramientas de software interactivas, motores 3D acelerados por GPU y sistemas mecatrónicos reales**.
+No me quedo en la teoría de pizarra; mi pasión es **diseñar, estructurar y construir sistemas reales que funcionen**, desde simuladores 3D acelerados por GPU y análisis de fluidos computacionales (CFD), hasta prototipos mecatrónicos con microcontroladores y planos de taller normalizados.
 
 ---
 
-## 🛠️ Stack Tecnológico & Herramientas
+## 🛠️ Matriz de Habilidades & Herramientas
 
-| Área | Tecnologías y Lenguajes |
-|:---|:---|
-| **Lenguajes Principales** | Python, C/C++, MATLAB, JavaScript (ES6+), HTML5/CSS3 |
-| **Simulación y CAE** | PyOpenGL (Shaders/3D), Lattice Boltzmann (LBM D2Q9), SciPy (RK45), NumPy, SolidWorks CAD |
-| **Interfaces Gráficas (GUI)** | PyQt6, PyQt5, pyqtgraph (60 FPS Telemetry), WebGL, HTML5 Canvas |
-| **IA y Visión Artificial** | Google MediaPipe Hands, OpenCV, PyTorch |
-| **Documentación Científica** | LaTeX (IEEE / Artículos Académicos), TikZ, Markdown, Obsidian |
+Mi stack técnico organizado por áreas y nivel de aplicación práctica:
+
+| Área Técnica | Herramientas & Tecnologías | Nivel de Aplicación |
+|:---|:---|:---|
+| **Programación & Simulación Científica** | **Python** (PyQt6/5, PyOpenGL, NumPy, SciPy, pyqtgraph, Pytest)<br>**MATLAB** (Lattice Boltzmann, App Designer, cálculo matricial)<br>**JavaScript** (HTML5 Canvas, WebGL, MediaPipe Hands) | **Avanzado**<br>Desarrollo de software CAE de escritorio, mallas numéricas, gráficos 3D y testing automático. |
+| **Diseño Mecánico & CAD** | **SOLIDWORKS** (Modelado 3D paramétrico, ensambles, balance inercial)<br>**AutoCAD** (Planos técnicos 2D/3D, tolerancias, cotas normalizadas) | **Avanzado / Competente**<br>Diseño de mecanismos reales, preparación para mecanizado y documentación técnica. |
+| **Sistemas Embebidos & Mecatrónica** | **Arduino (C/C++)** (Microcontroladores Uno/Nano, periféricos)<br>**Comunicaciones Hardware** (I2C, UART/Serial bidireccional, PWM)<br>**Fritzing** (Diagramación y esquemáticos de protoboards) | **Competente**<br>Sincronización PC-Hardware en tiempo real, integración de sensores y actuadores. |
+| **Cálculo & Memorias de Ingeniería** | **PTC Mathcad Prime** & **SMath Studio** (Cálculos con verificación de unidades)<br>**Microsoft Excel** (Modelos analíticos, tablas dinámicas y automatización con Python)<br>**LaTeX** (Informes formales formato IEEE, artículos científicos, TikZ) | **Competente / Medio**<br>Redacción rigurosa, trazabilidad matemática completa y automatización de datos. |
+| **Software CAE & Dinámica Especializada** | **Working Model 2D** (Cinemática y cinética planar de mecanismos)<br>**ANSYS / Altair Inspire** (Análisis por elementos finitos FEA / Topología) | **Académico / En formación**<br>Conceptos de mallado, esfuerzos de Von Mises y restricciones estructurales. |
+
+---
+
+## 🎯 ¿Qué puedo aportar a un equipo o proyecto?
+
+1. **Construcción de Software de Ingeniería a Medida:** Desarrollo de interfaces interactivas (PyQt/OpenGL) y herramientas computacionales para resolver problemas físicos específicos sin depender de cajas negras.
+2. **Puente Mecánica-Software:** Capacidad de traducir ecuaciones diferenciales complejas (Navier-Stokes, dinámicas multicuerpo, vibraciones con amortiguamiento) a código limpio, modular y optimizado.
+3. **Prototipado Rápido Mecatrónico:** Integración de piezas modeladas en CAD con firmware en C++ sobre microcontroladores Arduino conectados a la PC.
+4. **Documentación de Alto Nivel:** Memorias de cálculo completas con deducciones paso a paso, análisis de error relativo y gráficos vectoriales listos para presentación o publicación.
 
 ---
 
 ## 🚀 Proyectos Insignia Destacados
 
 ### 1. ⚙️ [LatheDynamics 3D — Simulador CAE de Torno Didáctico](https://github.com/RoPP17/lathe-dynamics-3d-sim)
-> **PyQt6 | PyOpenGL | Dinámica Multicuerpo | 29 Tests en Pytest**  
+> **PyQt6 | PyOpenGL | Dinámica Multicuerpo | 29 Tests en Pytest | LaTeX**  
 > Suite de ingeniería de escritorio con motor 3D interactivo en OpenGL, cámara orbital técnica, telemetría a 60 FPS con `pyqtgraph`, sistema de partículas para la viruta y **20 cálculos dinámicos analíticos verificados al 0.000% de error**.
 
 ### 2. 🏢 [SeismicDynamics — Dinámica Sísmica Estructural (SDOF & 2DOF con TMD)](https://github.com/RoPP17/seismic-vibration-tmd-sim)
